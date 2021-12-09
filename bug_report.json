@@ -1,1 +1,10 @@
-
+{
+  "ID":"YM14",
+  "summary":"short executive summary",
+  "component":"Name of the part or function of the product under test",
+  "steps to reproduce":"description of steps",
+  "actual result":"the result we see",
+  "expected result":"the result we wanted,expected see",
+  "severity":"Blocker,Critical,Major,Minor or Trivial",
+  "priority":"High,Medium,Low"
+  }

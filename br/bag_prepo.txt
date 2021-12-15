@@ -1,0 +1,9 @@
+{
+	"ID":"B1",
+	"summary":"nmn",
+	"steps to reproduce":"steps",
+	"actual result":"result",
+	"expected result":"result",
+	"severity":"Major"
+	
+}
